@@ -1,7 +1,0 @@
-/var/log/apel/client.log {
-    notifempty
-    weekly
-    rotate 4
-    missingok
-    create
-}
